@@ -1,4 +1,5 @@
-# adopt-pets
+# vue-pet-app
+This is a replicate app of https://github.com/gwenf/vue-adopt-pets
 
 ## Project setup
 ```

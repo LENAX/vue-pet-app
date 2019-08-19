@@ -24,7 +24,7 @@ export default new Router({
       component: () => import(/* webpackChunkName: "about" */ './views/Dogs.vue')
     },
     {
-      path: '/pet',
+      path: '/pet/:species/:id',
       name: 'pet',
       component: () => import(/* webpackChunkName: "about" */ './views/Pet.vue')
     }
